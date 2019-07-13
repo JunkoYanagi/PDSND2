@@ -5,7 +5,7 @@ Include the date you created this project and README file.
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+Use python to understand U.S. bikeshare data. It calculates statistics and buid an interactive environment where a user chooses the data and fileter for a dataset to analyze
 
 ### Files used
 - chicago.csv
