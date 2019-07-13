@@ -24,7 +24,7 @@ def get_filters():
         if city == 'Chicago' or city == 'New York' or city == 'Washington':
             break
         else:
-            print ('Please ensure you input is Chicago, New York or Washington') 
+            print ('Please ensure you input is Chicago, New York or Washington. Please check you don\'t have any spelling mistakes') 
  
     # TO DO: get user input for month (all, january, february, ... , june)
     while True:
