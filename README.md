@@ -1,5 +1,6 @@
 ### Date created
-Include the date you created this project and README file.
+June 19: Launched First Foundation
+July 13: Improve User Experience
 
 ### Project Title
 Explore US Bikeshare Data
